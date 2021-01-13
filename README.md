@@ -2,9 +2,11 @@
 
 I like to code. Mostly I use JavaScript but also explore some new or just interesting in computer science. I think that I’m kind a person. I really like Open Source and believe that it changing the world we live in. 
 
-I believe that decentralization and cryptography is a part of important work for all the us today and next generations.  Also I like the idea to make art with code.
+I believe that decentralization and cryptography is a part of important work for all the us today and next generations.
 
 Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and of course feel free to participate at GitHub. Contributions are welcome.
 
 Also I collecting, create own and research about how and why JS interpetator works in [such way it works](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
 And can describe all of that.
+
+And also I like the idea to make art with code.
