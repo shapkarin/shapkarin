@@ -10,3 +10,5 @@ And can describe all of that.
 And also I like the idea to make art with code. 
 
 Check [my website](https://shapkarin.me/).
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shapkarin&show_icons=true&theme=blue-green&hide=stars&hide_title=true&line_height=26" />
