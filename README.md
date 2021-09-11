@@ -4,7 +4,7 @@ Hello. My name is Yury Shapkarin. I like to code. I was involved in some great p
 
 Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and of course feel free to participate at GitHub. Contributions are welcome.
 
-I collecting, create own and research about how and why JS interpetator works in [works in a such way](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
+I collecting, create own and research about how and why JS interpetator work in [in a such way](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
 
 And I like the idea to make an art with code. 
 
