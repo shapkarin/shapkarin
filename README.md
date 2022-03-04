@@ -8,6 +8,4 @@ I am collecting, create and research about how and why JS interpretation works i
 
 And I like the idea to make art with code. 
 
-Check [my website](https://shapkarin.me/).
-
 <img align="github profile statistic" src="https://github-readme-stats.vercel.app/api?username=shapkarin&show_icons=true&theme=ayu-mirage&hide=stars&hide_title=true&line_height=26" />
