@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-Hello. My name is Yury Shapkarin. I like to code. I was involved in some great projects, create some from scratch, and create open source projects. I use JavaScript a lot but also explore some new or just interesting in computer science. From time to time I contribute to popular and not so known repositories.
+Hello. I like to code. I was involved in some great projects, create some from scratch, and create open source projects. I use JavaScript a lot but also explore some new or just interesting in computer science. From time to time I contribute to popular and not so known repositories.
 
 Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and of course, feel free to participate at GitHub. Contributions are welcome.
 
