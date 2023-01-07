@@ -8,4 +8,4 @@ Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and
 
 And I like the idea to make art with code. 
 
-<img align="github profile statistic" src="https://github-readme-stats.vercel.app/api?username=shapkarin&show_icons=true&theme=ayu-mirage&hide=stars&hide_title=true&line_height=26" />
+<img align="github profile statistic" src="https://github-readme-stats.vercel.app/api?username=shapkarin&show_icons=true&theme=ayu-mirage&hide=stars,issues&hide_title=true&line_height=26" />
