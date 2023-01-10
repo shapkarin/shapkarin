@@ -7,5 +7,3 @@ Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and
 [Check curiosity.js list :-)](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
 
 And I like the idea to make art with code. 
-
-<img align="github profile statistic" src="https://github-readme-stats.vercel.app/api?username=shapkarin&show_icons=true&theme=ayu-mirage&hide=stars,issues,prs&hide_title=true&line_height=26" />
