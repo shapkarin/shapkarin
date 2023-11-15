@@ -1,6 +1,12 @@
 ### Hello everyone 👋
 
-Hello. I like to code. I was involved in some great projects, create some from scratch, and create open source projects. I use JavaScript a lot but also explore some new or just interesting in computer science. From time to time I contribute to popular and not so known repositories.
+Feel free to contact me if you need reference and feedback from previous jobs.
+I have the assertiveness quality. I really love coding, knowledge sharing, people, open source and modern technology.
+
+I contributed to Mozilla MDN Web core engine and website content (ru and eng), Google web.dev, Tendermint and other not so famous projects.
+Also I was work at medicine and bioinformatics projects.
+
+Email me to get "Developer Story.pdf" with a lot of GitHub PRs and links.
 
 Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and of course, feel free to participate at GitHub. Contributions are welcome.
 
