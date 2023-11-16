@@ -14,4 +14,4 @@ Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and
 
 [Check curiosity.js list :-)](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
 
-And I like the idea to make art with code. 
+[My homepage](https://shapkarin.me)
