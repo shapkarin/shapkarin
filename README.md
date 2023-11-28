@@ -1,8 +1,4 @@
-### Hello everyone 👋
-
-Feel free to contact me if you need reference and feedback from previous jobs.
-I have the assertiveness quality. 
-I really love coding, knowledge sharing, people, open source and modern technology.
+### Hello everyone
 
 I contributed to Mozilla MDN Web core engine and website content (ru and eng), Google web.dev, Tendermint and other not so famous projects.
 Also I was work at medicine and bioinformatics projects.
