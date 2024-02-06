@@ -13,3 +13,5 @@ Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and
 [Check curiosity.js list](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
 
 [My homepage](https://shapkarin.me)
+
+[My CV](https://drive.google.com/file/d/1joPddcJAH8Grtc6a0XnBmQ8aw-ftDH9W/view?usp=sharing)
