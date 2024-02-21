@@ -10,6 +10,6 @@ I also wanted to give back to the GitHub community itself – <a href="https://
 
 Have a look at my published [npm packages](https://www.npmjs.com/~shapkarin) and of course, feel free to participate at GitHub. Contributions are welcome.
 
-[Check curiosity.js list](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b)
+[Check curiosity.js list](https://gist.github.com/shapkarin/b3fbeaca95ef69df177b) – about JS interpreter operation
 
 [My homepage](https://shapkarin.me)
