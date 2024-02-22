@@ -1,9 +1,8 @@
 ### Hello everyone
 
-I contributed to Mozilla MDN Web core engine and website content (ru and eng), Google web.dev, Tendermint and other not so famous projects.
-Also I was work at medicine, bioinformatics and blockchain projects.
+With over 13 years of experience in software development and a strong foundation in Computer Science, I have experience in crypto, decentralized applications, bioinformatics, and EdTech. I have led global projects, mentored teams, and developed solutions that bridge technology with real-world applications. My work underlines my dedication to innovation, problem-solving, and creating impactful user experiences
 
-Please check <a href="https://drive.google.com/file/d/1by9rcRYvHE_gmLLM5BH71XhC8L_W4KLd/view" target="_blank">Developer Story</a> to make sure about a part of my open source contributions.
+In addition I contributed to Mozilla MDN Web core engine and website content, Google web.dev, details with links can be found at <a href="https://drive.google.com/file/d/1by9rcRYvHE_gmLLM5BH71XhC8L_W4KLd/view" target="_blank">Developer Story PDS</a> at my homepage
 
 The motivation to contribute is to give back to the community knowlage I gained from exploring Open Source sites and repos.
 I also wanted to give back to the GitHub community itself – <a href="https://github.com/orgs/community/discussions?discussions_q=author%3Ashapkarin+" target="_blank">GitHub/community/discussions :octocat:</a>
