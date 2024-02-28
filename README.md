@@ -1,6 +1,6 @@
 ### Hello everyone
 
-With over 13 years of experience in software development and a strong foundation in Computer Science, I have experience in crypto, decentralized applications, bioinformatics, and EdTech. I have led global projects, mentored teams, and developed solutions that bridge technology with real-world applications. My work underlines my dedication to innovation, problem-solving, and creating impactful user experiences
+With over 13 years of experience in software development and a strong foundation in Computer Science. I have led global projects, mentored teams, and developed solutions that bridge technology with real-world applications. My work underlines my dedication to innovation, problem-solving, and creating impactful user experiences.
 
 In addition I contributed to Mozilla MDN Web core engine and website content, Google web.dev, details with links can be found at <a href="https://drive.google.com/file/d/1by9rcRYvHE_gmLLM5BH71XhC8L_W4KLd/view" target="_blank">Developer Story PDS</a> at my homepage
 
