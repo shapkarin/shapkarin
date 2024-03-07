@@ -8,3 +8,7 @@ With over 13 years of experience in software development and a strong foundation
 ______
 
 [My homepage](https://shapkarin.me)
+
+_____
+
+Ping me to get Open Source developer story PDF – it's stored at Google Disk.
