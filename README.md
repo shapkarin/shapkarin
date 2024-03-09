@@ -11,4 +11,4 @@ ______
 
 _____
 
-Ping me to get Open Source developer story PDF – it's stored at Google Disk.
+### Ping me to get Open Source developer story PDF – it's stored at Google Disk.
